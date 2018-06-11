@@ -28,7 +28,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:padding="4dp"
-                android:text="TEAM A"
+                android:text="@string/TEAM_A"
                 android:textColor="#ffffff"
                 android:textSize="24sp"
                 android:textStyle="bold" />
@@ -94,7 +94,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center"
                 android:padding="4dp"
-                android:text="TEAM B"
+                android:text="@string/TEAM_B"
                 android:textColor="#ffffff"
                 android:textSize="24sp"
                 android:textStyle="bold" />

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BasketBall Score Keeper</string>
+    <string name="TEAM_A">TEAM A</string>
+    <string name="TEAM_B">TEAM B</string>
 </resources>
